@@ -10,7 +10,7 @@ The application allows users to interact with each other via a posting method fo
 
  -- Locally
 
-To download the application onto your own machine please use https://github.com/TomaszChylinski/MusicHub.git.
+To download the application onto your own machine please use https://github.com/aedingbo/MusicHub.
 
 * Once cloned onto your machine, open the terminal of your choice to the following directory "MusicHub".
 * Run npm install (installs all dependecies)
@@ -54,6 +54,3 @@ Please visit www.heroku.com (https://lychee-tart-99833.herokuapp.com/)
 
 
 <img src="./assets/images/musichub-05.JPG">
-
-
-Thank you for viewing my MusicHub application for any question please feel free to visit my portfolio to contact me <a href="https://tomaszchylinski.github.io/chylinski-tomasz-portfolio/index.html">page</a>
